@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RockPapperScissor.iml" filepath="$PROJECT_DIR$/.idea/modules/RockPapperScissor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RockPapperScissor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RockPapperScissor_main.iml" group="RockPapperScissor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RockPapperScissor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RockPapperScissor_test.iml" group="RockPapperScissor" />
+    </modules>
+  </component>
+</project>
